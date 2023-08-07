@@ -33,17 +33,24 @@ Brick leverages the following Azure technologies:
 
 Here are a few screenshots of the Brick real estate website:
 
-![Home Page](https://drive.google.com/file/d/1y_Ur5dT7SeHp7z4LzMxRTBTBr2tSZ4La/view?usp=drive_link)
+![Home Page](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/c66f23fe-1c0e-42ee-a1b9-719e516483d2)
 *Fig. 1: The homepage showcasing featured properties and navigation options.*
 
-![About Us](https://drive.google.com/file/d/1uXDb6mX1dF601VtEZ3yIVaP_oN5PTSwz/view?usp=drive_link)
+![About Us](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/b752f5ac-4674-4335-b6ab-59c51ad2f6b1)
 *Fig. 2: Some Inofrmation About Us.*
 
-![Services](https://drive.google.com/file/d/1I7I7ONMtBCHdCe5FnD4MIohxxMSdHlhI/view?usp=drive_link)
+![Services](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/877e947a-ff49-4233-96b3-62a525082064)
 *Fig. 3: Various Services offered to the user.*
 
-![Pricing Table](https://drive.google.com/file/d/1G_KfdT2ekQ1h6ju1qvx4cYp9DLN2IKW6/view?usp=drive_link)
+![Pricing Table](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/7f04c1f3-0ef2-4a2b-8b46-4d9b78f2d994)
 *Fig. 4: Plans and Pricing table for user.*
+
+![Screenshot (255)]()
+![Screenshot (260)]()
+
+![Screenshot (256)]()
+![Screenshot (257)]()
+
 
 ![Blog Section](https://drive.google.com/file/d/1V83ednGMpgcP8PSRKE5ecVG2pKvYoPk1/view?usp=drive_link)
 *Fig. 5: Access to blogs and related content for enhanced user engagement.*
