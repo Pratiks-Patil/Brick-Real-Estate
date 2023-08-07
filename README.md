@@ -36,24 +36,17 @@ Here are a few screenshots of the Brick real estate website:
 ![Home Page](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/c66f23fe-1c0e-42ee-a1b9-719e516483d2)
 *Fig. 1: The homepage showcasing featured properties and navigation options.*
 
-![About Us](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/b752f5ac-4674-4335-b6ab-59c51ad2f6b1)
+![About Us](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/877e947a-ff49-4233-96b3-62a525082064)
 *Fig. 2: Some Inofrmation About Us.*
 
-![Services](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/877e947a-ff49-4233-96b3-62a525082064)
+![Services](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/7f04c1f3-0ef2-4a2b-8b46-4d9b78f2d994)
 *Fig. 3: Various Services offered to the user.*
 
-![Pricing Table](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/7f04c1f3-0ef2-4a2b-8b46-4d9b78f2d994)
+![Pricing Table](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/3c9afe27-7e4f-4d08-8828-3c0bc6dcae5f)
 *Fig. 4: Plans and Pricing table for user.*
 
-![Screenshot (255)]()
-![Screenshot (260)]()
-
-![Screenshot (256)]()
-![Screenshot (257)]()
-
-
-![Blog Section](https://drive.google.com/file/d/1V83ednGMpgcP8PSRKE5ecVG2pKvYoPk1/view?usp=drive_link)
+![Blog Section](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/2a728b9a-8d8a-40cc-b98e-7fbbbcdc9865)
 *Fig. 5: Access to blogs and related content for enhanced user engagement.*
 
-![Contact Us](https://drive.google.com/file/d/1DBCd3l4V3D0P2A2Gyvue0EUGRJke_Pj0/view?usp=drive_link)
+![Contact Us](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/a6713e47-9730-4fc3-8bdd-0b8a07b3c00d)
 *Fig. 5: Enhanced Connectivity through Contact Us Page.*
