@@ -49,4 +49,10 @@ Here are a few screenshots of the Brick real estate website:
 *Fig. 5: Access to blogs and related content for enhanced user engagement.*
 
 ![Contact Us](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/a6713e47-9730-4fc3-8bdd-0b8a07b3c00d)
-*Fig. 5: Enhanced Connectivity through Contact Us Page.*
+*Fig. 6: Enhanced Connectivity through Contact Us Page.*
+
+![Azure ](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/637e8adb-7a3f-46ac-a98d-20b18f6e30b7)
+*Fig. 7: Azure services used*
+
+![Azure ](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/72ea90dd-4b79-4243-ac37-076659400d33)
+*Fig. 8: Azure services used*
