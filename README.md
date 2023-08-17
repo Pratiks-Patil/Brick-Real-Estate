@@ -52,7 +52,7 @@ Here are a few screenshots of the Brick real estate website:
 *Fig. 6: Enhanced Connectivity through Contact Us Page.*
 
 ![Azure ](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/637e8adb-7a3f-46ac-a98d-20b18f6e30b7)
-*Fig. 7: Azure services used*
+*Fig. 7: Azure Front Door services used*
 
 ![Azure ](https://github.com/Pratiks-Patil/Brick-Real-Estate/assets/80518259/72ea90dd-4b79-4243-ac37-076659400d33)
-*Fig. 8: Azure services used*
+*Fig. 8: Azure Static Web App services used*
