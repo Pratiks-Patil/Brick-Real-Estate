@@ -52,13 +52,6 @@ background: #fff;
 letter-spacing: 1px;
 font-family: 'Source Sans Pro', sans-serif;
 }
-body {
-padding: 0;
-margin: 0;
-background: #fff;
-letter-spacing: 1px;
-font-family: 'Source Sans Pro', sans-serif;
-}
 body a {
 outline: none;
 transition: 0.5s all;
